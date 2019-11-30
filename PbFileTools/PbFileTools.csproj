@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Paul Ballew</Authors>
+    <Description>Library for searching and manipulating files in DotNet Core.</Description>
+    <Copyright>Copyright 2019, Paul Ballew</Copyright>
+    <PackageLicenseUrl>https://github.com/pballew/PbFileTools/blob/dev/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/pballew/PbFileTools</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pballew/PbFileTools</RepositoryUrl>
+    <RepositoryType>DotNet Core 2.1</RepositoryType>
+    <PackageReleaseNotes>Methods:
+SearchAllFilesByExtensions(string searchPath, List&lt;string&gt; extensions)
+SearchAllFilesByText(string searchPath, string searchText)</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
