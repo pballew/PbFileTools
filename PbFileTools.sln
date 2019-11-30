@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PbFileTools", "PbFileTools\PbFileTools.csproj", "{682DBFD6-A6E8-4416-A5CA-03A767CEC01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PbFileToolsTests", "PbFileToolsTests\PbFileToolsTests.csproj", "{D8DBBBAD-23BA-42BB-8D36-9C83B8EDAF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682DBFD6-A6E8-4416-A5CA-03A767CEC01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682DBFD6-A6E8-4416-A5CA-03A767CEC01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682DBFD6-A6E8-4416-A5CA-03A767CEC01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682DBFD6-A6E8-4416-A5CA-03A767CEC01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DBBBAD-23BA-42BB-8D36-9C83B8EDAF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DBBBAD-23BA-42BB-8D36-9C83B8EDAF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DBBBAD-23BA-42BB-8D36-9C83B8EDAF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DBBBAD-23BA-42BB-8D36-9C83B8EDAF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F802A923-2A78-4225-88C8-0152C435B027}
+	EndGlobalSection
+EndGlobal
