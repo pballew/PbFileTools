@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Version>0.1.0</Version>
     <Authors>Paul Ballew</Authors>
     <Description>Library for searching and manipulating files in DotNet Core.</Description>
